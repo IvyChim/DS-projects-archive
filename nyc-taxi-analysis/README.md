@@ -4,7 +4,7 @@ This project analyzes yellow taxi trip data in New York City for the year **2016
 The goal is to uncover patterns in ride behavior, earnings, tipping, and the effect of external factors such as **weather**.
 
 > 🔗 **View the full interactive report**:  
-> [👉 Click here to view the HTML report](https://ivychim.github.io/DS-projects-archive/nyc_taxi_analysis.html)
+> [👉 Click here to view the HTML report](https://ivychim.github.io/DS-projects-archive/nyc-taxi-analysis/New_York_Taxi_Trips.html)
 
 ---
 
