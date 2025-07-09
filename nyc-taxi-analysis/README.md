@@ -37,9 +37,10 @@ Work During Peak Hours: The "Tip Amount by Hour of Day" graph indicates that tip
 ---
 
 ## 📁 Project Structure
-- nyc_taxi_analysis.ipynb # Jupyter notebook with code & plots
-- nyc_taxi_analysis.html # Exported HTML report (for GitHub Pages)
-- README.md # Project overview (this file)
+- New_York_Taxi_Trips.ipynb  
+- New_York_Taxi_Trips.html  
+- New_York_Taxi_Trips.pdf
+- README.md 
 - ...
 
 ## 🚀 Technologies Used
